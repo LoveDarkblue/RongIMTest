@@ -1,0 +1,11 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+/.idea
+/IMKit_v2_6_3_with_voip/build
+/IMKit_v2_6_3_with_voip/*.iml
